@@ -14,9 +14,9 @@ JavaScript – For adding functionality and user interaction
 
 This repository includes:
 
-✅ Task 1: Implemented using HTML, CSS, and JavaScript
+✅ Task 1: Implemented using HTML, CSS.
 
-✅ Task 2: Implemented using HTML, CSS, and JavaScript
+✅ Task 2: Implemented using HTML, CSS.
 
 ✅ Task 3: Implemented using HTML, CSS, and JavaScript
 
@@ -31,3 +31,6 @@ Practice front-end development fundamentals
 Understand how HTML, CSS, and JavaScript work together
 
 Build interactive and visually appealing web applications
+
+
+My journey with Oasis Infobyte was a great learning experience. During this time, I gained valuable knowledge and improved my skills in web development. Working on real tasks helped me understand practical concepts and boosted my confidence. Overall, this internship was an important step in my learning journey and personal growth.
